@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tableLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp">
+
+
+
+    <TableRow>
+        <TextView android:text="GIOCATORE" android:padding="8dp" android:textStyle="bold"/>
+        <TextView android:id="@+id/ruoloHeader" android:text="RUOLO" android:padding="8dp" android:textStyle="bold"/>
+        <TextView android:id="@+id/presHeader" android:text="PRES" android:padding="8dp" android:textStyle="bold"/>
+        <TextView android:id="@+id/golHeader" android:text="GOL" android:padding="8dp" android:textStyle="bold"/>
+        <TextView android:id="@+id/astHeader" android:text="AST" android:padding="8dp" android:textStyle="bold"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Di Benedetto Domenico" android:padding="8dp"/>
+
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="6" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Ruggiero Alessandro" android:padding="8dp"/>
+        <TextView android:text="CEN" android:padding="8dp"/>
+        <TextView android:text="6" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Cianci Francesco Pio" android:padding="8dp"/>
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="5" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Serino Jacopo" android:padding="8dp"/>
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="4" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Michele Alfieri" android:padding="8dp"/>
+        <TextView android:text="CEN" android:padding="8dp"/>
+        <TextView android:text="3" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Cataldo Mathias" android:padding="8dp"/>
+        <TextView android:text="DIF" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Marra Giuseppe" android:padding="8dp"/>
+        <TextView android:text="CEN" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Morra Greco Lorenzo" android:padding="8dp"/>
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Valentino Thomas" android:padding="8dp"/>
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="De Prisco Mario" android:padding="8dp"/>
+        <TextView android:text="DIF" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Figliola Andrea" android:padding="8dp"/>
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Giacomo Guerra" android:padding="8dp"/>
+        <TextView android:text="CEN" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Magro Ciro" android:padding="8dp"/>
+        <TextView android:text="ATT" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Mazzone Marco" android:padding="8dp"/>
+        <TextView android:text="DIF" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView android:text="Nigro Ciro" android:padding="8dp"/>
+        <TextView android:text="DIF" android:padding="8dp"/>
+        <TextView android:text="1" android:padding="8dp"/>
+        <TextView android:text="2" android:padding="8dp"/>
+        <TextView android:text="0" android:padding="8dp"/>
+    </TableRow>
+</TableLayout>
